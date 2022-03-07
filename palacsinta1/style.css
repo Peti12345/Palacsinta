@@ -1,0 +1,19 @@
+ul{
+    background-image: url(palacsinta1.jpg);
+    font-size: 150%;
+    margin-top: 0px;
+}
+#palacsintakep{
+    float: right;
+}
+h1{
+    background-color: cyan;
+    padding: 0px;
+    margin: 0px;
+}
+html{
+    width: 1000px;
+}
+ul :hover{
+    background-color: cornflowerblue;
+}

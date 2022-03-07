@@ -1,0 +1,10 @@
+ol{
+    font-size: 150%;
+    background-color: antiquewhite;
+}
+body{
+    text-align: justify;
+}
+ol :hover{
+    background-color: cornflowerblue;
+}
